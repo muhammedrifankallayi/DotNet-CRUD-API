@@ -1,0 +1,15 @@
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\bin\Debug\net8.0\dotnet sample.exe
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\bin\Debug\net8.0\dotnet sample.deps.json
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\bin\Debug\net8.0\dotnet sample.runtimeconfig.json
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\bin\Debug\net8.0\dotnet sample.dll
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\bin\Debug\net8.0\dotnet sample.pdb
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.AssemblyInfoInputs.cache
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.AssemblyInfo.cs
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.csproj.CoreCompileInputs.cache
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.sourcelink.json
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.dll
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\refint\dotnet sample.dll
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.pdb
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\dotnet sample.genruntimeconfig.cache
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\net8.0\ref\dotnet sample.dll

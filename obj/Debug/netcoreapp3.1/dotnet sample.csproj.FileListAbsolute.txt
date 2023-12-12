@@ -1,0 +1,6 @@
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\netcoreapp3.1\dotnet sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\netcoreapp3.1\dotnet sample.AssemblyInfoInputs.cache
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\netcoreapp3.1\dotnet sample.AssemblyInfo.cs
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\netcoreapp3.1\dotnet sample.csproj.CoreCompileInputs.cache
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\netcoreapp3.1\dotnet sample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rifan\OneDrive\Desktop\dotnet sample\obj\Debug\netcoreapp3.1\dotnet sample.sourcelink.json
